@@ -16,7 +16,7 @@ using http get request
 ## Dependencies 
 - [get: ^4.6.1](https://pub.dev/packages/get)
 - [http: ^0.13.4](https://pub.dev/packages/http)
-- [url_launcher: ^6.0.18}(https://pub.dev/packages/url_launcher)
+- [url_launcher: ^6.0.18](https://pub.dev/packages/url_launcher)
 - [font_awesome_flutter: ^9.2.0](https://pub.dev/packages/font_awesome_flutter)
 
 For help getting started with Flutter, view our
