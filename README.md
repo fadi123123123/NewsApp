@@ -20,7 +20,8 @@ and http get request
 - [font_awesome_flutter: ^9.2.0](https://pub.dev/packages/font_awesome_flutter)
 
 ## Screenshot 
-![Screenshot](screenshot.jpg)
+<img src="screenshot.jpg" width="400" height="800"/>
+
 ## 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
