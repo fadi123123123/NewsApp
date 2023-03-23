@@ -11,7 +11,7 @@ News app is open-source News app for Android & ios. It is built with Dart on top
 ## About
 News app using server:  
 - [using api news](https://newsapi.org/)
-using http get request  
+and http get request  
 
 ## Dependencies 
 - [get: ^4.6.1](https://pub.dev/packages/get)
